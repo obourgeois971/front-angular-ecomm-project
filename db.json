@@ -1,0 +1,23 @@
+{
+  "seller": [
+    {
+      "name": "amil sidhu",
+      "email": "amil@seller.com",
+      "password": "abc@123",
+      "id": "kY1EXEYz63E"
+    },
+    {
+      "name": "amil sidhu",
+      "email": "amil@seller.com",
+      "password": "abc@123",
+      "id": "WCkoWLluJTE"
+    },
+    {
+      "name": "amil sidhu",
+      "email": "amil@seller.com",
+      "password": "abc@123",
+      "id": "l0T9M3lBkfA"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
