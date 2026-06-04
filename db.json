@@ -23,6 +23,24 @@
       "password": "1234567",
       "email": "bourgeoisolivier@hotmail.fr",
       "id": "4HakwiqQh4U"
+    },
+    {
+      "name": "oki",
+      "password": "ffedz",
+      "email": "ffezf",
+      "id": "8prQLXiVrNI"
+    },
+    {
+      "name": "oki",
+      "password": "123456",
+      "email": "bourgeoisolivier@hotmail.fr",
+      "id": "hh73NJV1cso"
+    },
+    {
+      "name": "oki",
+      "password": "1234567",
+      "email": "bourgeoisolivier@hotmail.fr",
+      "id": "swO8mOgvRn4"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
