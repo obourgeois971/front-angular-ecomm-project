@@ -17,6 +17,12 @@
       "email": "amil@seller.com",
       "password": "abc@123",
       "id": "l0T9M3lBkfA"
+    },
+    {
+      "name": "oki",
+      "password": "1234567",
+      "email": "bourgeoisolivier@hotmail.fr",
+      "id": "4HakwiqQh4U"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
